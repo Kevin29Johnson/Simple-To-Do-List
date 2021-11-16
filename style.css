@@ -1,0 +1,35 @@
+html,
+body {
+  width: 50%;
+  margin: 0 auto;
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+  background: turquoise;
+}
+.container {
+  width: 400px;
+}
+#inputbox {
+  width: 250px;
+  height: 46px;
+  border: 1px solid black;
+  font-size: 20px;
+  vertical-align: middle;
+}
+#addButton {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  font-size: 20px;
+  vertical-align: middle;
+  background-color: aquamarine;
+  color: green;
+}
+#todoList {
+  margin-top: 25px;
+}
+.added-para {
+  margin: 0;
+  cursor: pointer;
+  font-size: 30px;
+  background-color: aliceblue;
+}
